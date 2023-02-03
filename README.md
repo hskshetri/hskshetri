@@ -66,7 +66,7 @@ from world import love
 class HumanBeing:
 
     def __init__(self):
-        self.name = "Harsh Singh Kshetrimayum"
+        self.name = "arsh Singh Kshetrimayum"
         self.username = ["hskshetri"]
         self.pronouns = ["He", "Him"]
         self.role = "Cybersecurity Enthusiast"
