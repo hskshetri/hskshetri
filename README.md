@@ -53,7 +53,7 @@ Cybersecurity Enthusiast learning webpentest
       src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg"
       alt="adampithewan" height="30" width="40" /></a>
      <a href="https://www.linkedin.com/in/hskshetri" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://github.com/rauldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
@@ -66,7 +66,7 @@ from world import love
 class HumanBeing:
 
     def __init__(self):
-        self.name = "arsh Singh Kshetrimayum"
+        self.name = "Harsh Singh Kshetrimayum"
         self.username = ["hskshetri"]
         self.pronouns = ["He", "Him"]
         self.role = "Cybersecurity Enthusiast"
