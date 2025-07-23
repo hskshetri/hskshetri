@@ -17,14 +17,13 @@
 
 Cybersecurity Enthusiast learning webpentest
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--  🐱‍👤Cybersecurity Enthusiast
-- 🔭 I’m currently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
-- 🌱 I’m currently learning **webpentesting**
-- 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/hskshetri/)<br>**
+Hello! I'm Harsh, a student pursuing Bachelor of Technology (B.Tech.) in Computer Science and Engineering at Uttaranchal University, originally from Kakching, Manipur, India. I have a profound passion for technology and love bringing ideas to life, whether it's for the web or other digital platforms.
 
-- 🤝 I’m looking for help with **Open-sources project**
+My journey into the tech world is driven by a desire to create innovative and secure solutions. I enjoy tackling challenges and continuously learning about new technologies in Web Development, Cybersecurity,UI/UX Designing and Artificial Intelligence.
 
-- 💬 Ask me about **Tech,Astro,Hacking**
+Beyond my academic and technical pursuits, I am actively involved in cultural and event committees at my university, where I contribute to planning, organizing, and managing various campus activities. I have a deep interest in Korean language and culture, which fuels my curiosity about global traditions and communication.
+
+In addition, I enjoy creative hobbies such as playing the guitar, photography, and video editing. These activities allow me to express myself artistically and enhance my storytelling and visual communication skills.
 
 
 <br>
