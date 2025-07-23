@@ -15,7 +15,7 @@
 
 
 
-Cybersecurity Enthusiast learning webpentest
+Aspiring Software Engineer
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hello! I'm Harsh, a student pursuing Bachelor of Technology (B.Tech.) in Computer Science and Engineering at Uttaranchal University, originally from Kakching, Manipur, India. I have a profound passion for technology and love bringing ideas to life, whether it's for the web or other digital platforms.
 
